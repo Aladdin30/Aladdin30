@@ -1,18 +1,14 @@
-
-<h1 align="center">Hi 👋, I'm Aladdin</h1>
-
-<h3 align="center">
-AI & Backend Engineer
-</h3>
-
+<!-- HOLOGRAM HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Backend+Engineer;FastAPI+Developer;RAG+Applications;Machine+Learning+Engineer;Robotics+Engineer;Building+Intelligent+Systems&center=true&width=750&height=55&color=58A6FF&vCenter=true&size=28">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=260&section=header&text=Aladdin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer&descAlignY=55&descSize=20"/>
 </p>
 
+<!-- TYPING ANIMATION -->
 <p align="center">
-  Building scalable backend systems, AI-powered applications, and intelligent real-world solutions.
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Backend+Engineer;FastAPI+Developer;Machine+Learning+Engineer;RAG+Applications;Robotics+Engineer;Building+Intelligent+Systems&center=true&width=800&height=60&color=58A6FF&vCenter=true&size=30">
 </p>
 
+<!-- BADGES -->
 <p align="center">
   <a href="https://github.com/Aladdin30">
     <img src="https://img.shields.io/github/followers/Aladdin30?label=Followers&style=for-the-badge"/>
@@ -21,15 +17,15 @@ AI & Backend Engineer
   <img src="https://komarev.com/ghpvc/?username=Aladdin30&style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge&logo=python"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aladdin30/Aladdin30/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+
 ---
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🤖 AI & Backend Engineer passionate about intelligent systems
 - 🌍 Working on multilingual AI transcription systems in the Atlas Project
@@ -40,6 +36,7 @@ AI & Backend Engineer
 - ⚡ Designing scalable backend APIs using FastAPI
 - 🐧 Linux & backend systems enthusiast
 - 🧠 Strong problem-solving and competitive programming background
+- 🔥 Passionate about AI Agents, LLMs, and scalable infrastructure
 
 ---
 
@@ -48,7 +45,7 @@ AI & Backend Engineer
 ## 👨‍💻 Backend & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,github,bash"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,github,bash,vscode"/>
 </p>
 
 ---
@@ -69,6 +66,39 @@ AI & Backend Engineer
 - Deep Learning
 - Machine Learning Pipelines
 - Data Processing & Analysis
+
+---
+
+# ⚡ Current Focus
+
+```python
+class Aladdin:
+    def __init__(self):
+        self.role = "AI & Backend Engineer"
+
+        self.backend = [
+            "FastAPI",
+            "PostgreSQL",
+            "Docker",
+            "Linux"
+        ]
+
+        self.ai = [
+            "Machine Learning",
+            "RAG Systems",
+            "LLMs",
+            "AI Agents",
+            "NLP"
+        ]
+
+    def build(self):
+        return "Building intelligent scalable systems 🚀"
+
+
+me = Aladdin()
+
+print(me.build())
+```
 
 ---
 
@@ -135,6 +165,14 @@ Retrieval-Augmented Generation application integrating LLMs with semantic search
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aladdin30/Aladdin30/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
 # 🏅 GitHub Trophies
 
 <p align="center">
@@ -153,31 +191,39 @@ Retrieval-Augmented Generation application integrating LLMs with semantic search
 
 ---
 
-# ⚡ Current Focus
+# ⚙️ Tools & Environment
 
-```python
-class Aladdin:
-    def __init__(self):
-        self.role = "AI & Backend Engineer"
-        self.stack = [
-            "Python",
-            "FastAPI",
-            "PostgreSQL",
-            "Docker",
-            "Machine Learning",
-            "RAG Systems"
-        ]
-
-    def build(self):
-        return "Building intelligent scalable systems 🚀"
-
-me = Aladdin()
-print(me.build())
-```
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,docker,git,github,vscode,postgres,python"/>
+</p>
 
 ---
 
-<p align="center">
-  💡 “Building intelligent systems that solve real-world problems.” 💡
+# 💻 Operating System
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
-````
+
+---
+
+# 🔥 Fun Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="750"/>
+</p>
+
+---
+
+# 🚀 Visitor Counter
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Aladdin30/count.svg"/>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=140&section=footer"/>
+</p>
