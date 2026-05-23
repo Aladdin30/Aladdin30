@@ -22,7 +22,9 @@ AI & Backend Engineer
 
   <img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge"/>
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aladdin30/Aladdin30/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 ---
 
 # 🚀 About Me
