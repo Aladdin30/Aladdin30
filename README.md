@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aladdin</h1>
 
-<!--
-**Aladdin30/Aladdin30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI & Backend Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building intelligent systems, scalable backend services, and AI-powered applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🤖 AI & Backend Engineer passionate about real-world intelligent systems
+- 🌍 Working on multilingual AI transcription systems in the Atlas Project
+- 📰 Developing AI models for breaking news monitoring and analysis
+- 🏥 Built robotic solutions for medical care during the COVID era
+- 🚚 Worked on autonomous delivery robot systems
+- 📚 Building RAG (Retrieval-Augmented Generation) applications
+- ⚡ Experienced in designing scalable backend APIs and data systems
+- 🧠 Strong problem-solving background with competitive programming experience
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Backend Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+</p>
+
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+</p>
+
+- NLP (Natural Language Processing)
+- Speech Recognition & Transcription
+- RAG Applications
+- AI Agents
+- LLM Applications
+- Machine Learning Pipelines
+
+---
+
+## 📌 Featured Projects
+
+### 🌍 Atlas Multilingual Transcription System
+AI-powered multilingual transcription platform designed for scalable speech processing and language understanding.
+
+### 📰 Breaking News AI Model
+Real-time AI system for tracking, analyzing, and following breaking news events.
+
+### 🏥 Medical Care Robot
+Robotic healthcare assistance solution developed during the COVID period to support medical operations.
+
+### 🚚 Autonomous Delivery Robot
+Smart delivery robot system with autonomous navigation capabilities.
+
+### 📚 RAG Application
+Retrieval-Augmented Generation application integrating LLMs with external knowledge sources.
+
+---
+
+## 🏆 Certifications
+
+- Problem Solving Certification
+- Competitive Programming Experience
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aladdin30&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aladdin30&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/Aladdin30">GitHub</a>
+</p>
