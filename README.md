@@ -1,4 +1,4 @@
-```md id="full_fixed_readme"
+
 <!-- ================= HEADER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=260&section=header&text=Aladdin&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer&descAlignY=55&descSize=20"/>
