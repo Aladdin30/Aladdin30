@@ -1,3 +1,8 @@
+<!-- HEADER ANIMATION -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZtZzF3Z3Z3d3R2eXl5eGZ6eGZ6Z3V6b2N3Z2F6b2Z6b2Z6b2Z6b2Y/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
+</p>
+
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Aladdin;AI+Engineer;Backend+Engineer;FastAPI+Developer;Machine+Learning+Engineer;RAG+Applications;Building+Intelligent+Systems&center=true&width=850&height=60&color=58A6FF&vCenter=true&size=30">
@@ -20,26 +25,30 @@
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+</p>
 
 - 🤖 AI & Backend Engineer passionate about intelligent systems
 - 🌍 Working on multilingual AI transcription systems in the Atlas Project
 - 📰 Developing AI models for breaking news monitoring & analysis
 - 🏥 Built robotic healthcare solutions during the COVID era
 - 🚚 Worked on autonomous delivery robot systems
-- 📚 Building advanced RAG (Retrieval-Augmented Generation) applications
+- 📚 Building advanced RAG applications
 - ⚡ Designing scalable backend APIs using FastAPI
 - 🐧 Linux & backend systems enthusiast
-- 🧠 Strong problem-solving and competitive programming background
-- 🔥 Passionate about AI Agents, LLMs, and scalable infrastructure
+- 🔥 Passionate about AI Agents & LLMs
 
 ---
 
 # 🛠️ Tech Stack
 
-## 👨‍💻 Backend & Infrastructure
+<p align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
+</p>
 
-<p align="left">
+## 👨‍💻 Backend & Infrastructure
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,github,bash,vscode"/>
 </p>
 
@@ -47,20 +56,13 @@
 
 ## 🤖 AI / Machine Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="280"/>
 </p>
 
-### AI Skills
-
-- Natural Language Processing (NLP)
-- Speech Recognition & Transcription
-- RAG Applications
-- AI Agents
-- LLM Applications
-- Deep Learning
-- Machine Learning Pipelines
-- Data Processing & Analysis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+</p>
 
 ---
 
@@ -72,25 +74,10 @@ class Aladdin:
         self.name = "Aladdin"
         self.role = "AI & Backend Engineer"
 
-        self.backend_stack = [
-            "FastAPI",
-            "PostgreSQL",
-            "Docker",
-            "Linux"
-        ]
-
-        self.ai_stack = [
-            "Machine Learning",
-            "RAG Systems",
-            "LLMs",
-            "AI Agents",
-            "NLP"
-        ]
+        self.stack = ["FastAPI", "PostgreSQL", "Docker", "LLMs"]
 
     def build(self):
-        return f"{self.name} is building intelligent scalable systems 🚀"
+        return "Building scalable AI systems 🚀"
 
 
-me = Aladdin()
-
-print(me.build())
+print(Aladdin().build())
