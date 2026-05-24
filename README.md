@@ -1,11 +1,6 @@
-<!-- HEADER ANIMATION -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZtZzF3Z3Z3d3R2eXl5eGZ6eGZ6Z3V6b2N3Z2F6b2Z6b2Z6b2Z6b2Y/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
-</p>
-
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Aladdin;AI+Engineer;Backend+Engineer;FastAPI+Developer;Machine+Learning+Engineer;RAG+Applications;Building+Intelligent+Systems&center=true&width=850&height=60&color=58A6FF&vCenter=true&size=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Aladdin;AI+Engineer;Backend+Engineer;FastAPI+Developer;Machine+Learning+Engineer;RAG+Systems+Builder;Building+Intelligent+Systems&center=true&width=850&height=60&color=58A6FF&vCenter=true&size=30">
 </p>
 
 <!-- BADGES -->
@@ -30,36 +25,24 @@
 </p>
 
 - 🤖 AI & Backend Engineer passionate about intelligent systems
-- 🌍 Working on multilingual AI transcription systems in the Atlas Project
-- 📰 Developing AI models for breaking news monitoring & analysis
-- 🏥 Built robotic healthcare solutions during the COVID era
+- 🌍 Working on multilingual AI transcription systems
+- 📰 Building real-time breaking news AI analysis systems
+- 🏥 Developed robotic healthcare solutions during COVID-19
 - 🚚 Worked on autonomous delivery robot systems
-- 📚 Building advanced RAG applications
+- 📚 Building advanced RAG (Retrieval-Augmented Generation) systems
 - ⚡ Designing scalable backend APIs using FastAPI
-- 🐧 Linux & backend systems enthusiast
-- 🔥 Passionate about AI Agents & LLMs
+- 🐧 Linux enthusiast & backend systems builder
+- 🔥 Passionate about AI Agents, LLMs, and scalable architectures
 
 ---
 
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
-</p>
-
-## 👨‍💻 Backend & Infrastructure
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,github,bash,vscode"/>
 </p>
 
----
-
 ## 🤖 AI / Machine Learning
-
-<p align="center">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="280"/>
-</p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
 </p>
@@ -71,13 +54,10 @@
 ```python
 class Aladdin:
     def __init__(self):
-        self.name = "Aladdin"
         self.role = "AI & Backend Engineer"
-
-        self.stack = ["FastAPI", "PostgreSQL", "Docker", "LLMs"]
+        self.stack = ["FastAPI", "PostgreSQL", "Docker", "LLMs", "RAG"]
 
     def build(self):
-        return "Building scalable AI systems 🚀"
-
+        return "Building scalable intelligent systems 🚀"
 
 print(Aladdin().build())
