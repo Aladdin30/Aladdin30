@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Backend+Engineer;FastAPI+Developer;Machine+Learning+Engineer;RAG+Applications;Robotics+Engineer;Building+Intelligent+Systems&center=true&width=800&height=60&color=58A6FF&vCenter=true&size=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Aladdin;AI+Engineer;Backend+Engineer;FastAPI+Developer;Machine+Learning+Engineer;RAG+Applications;Building+Intelligent+Systems&center=true&width=850&height=60&color=58A6FF&vCenter=true&size=30">
 </p>
 
 <!-- BADGES -->
@@ -74,16 +74,17 @@
 ```python
 class Aladdin:
     def __init__(self):
+        self.name = "Aladdin"
         self.role = "AI & Backend Engineer"
 
-        self.backend = [
+        self.backend_stack = [
             "FastAPI",
             "PostgreSQL",
             "Docker",
             "Linux"
         ]
 
-        self.ai = [
+        self.ai_stack = [
             "Machine Learning",
             "RAG Systems",
             "LLMs",
@@ -92,7 +93,7 @@ class Aladdin:
         ]
 
     def build(self):
-        return "Building intelligent scalable systems 🚀"
+        return f"{self.name} is building intelligent scalable systems 🚀"
 
 
 me = Aladdin()
