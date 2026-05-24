@@ -1,14 +1,20 @@
-<!-- HOLOGRAM HEADER -->
+```md id="full_fixed_readme"
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=260&section=header&text=Aladdin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=260&section=header&text=Aladdin&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer&descAlignY=55&descSize=20"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- ================= NAME ================= -->
+<h1 align="center">Hi 👋, I'm Aladdin</h1>
+
+<h3 align="center">AI & Backend Engineer</h3>
+
+<!-- ================= TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Aladdin;AI+Engineer;Backend+Engineer;FastAPI+Developer;Machine+Learning+Engineer;RAG+Applications;Building+Intelligent+Systems&center=true&width=850&height=60&color=58A6FF&vCenter=true&size=30">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Aladdin;AI+Engineer;Backend+Engineer;FastAPI+Developer;RAG+Applications;Machine+Learning+Engineer;Robotics+Engineer;Building+Intelligent+Systems&center=true&width=900&height=60&color=58A6FF&vCenter=true&size=28">
 </p>
 
-<!-- BADGES -->
+<!-- ================= BADGES ================= -->
 <p align="center">
   <a href="https://github.com/Aladdin30">
     <img src="https://img.shields.io/github/followers/Aladdin30?label=Followers&style=for-the-badge"/>
@@ -25,18 +31,18 @@
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🤖 AI & Backend Engineer passionate about intelligent systems
-- 🌍 Working on multilingual AI transcription systems in the Atlas Project
-- 📰 Developing AI models for breaking news monitoring & analysis
-- 🏥 Built robotic healthcare solutions during the COVID era
+- 🤖 My name is **Aladdin**
+- AI & Backend Engineer passionate about intelligent systems
+- 🌍 Worked on multilingual AI transcription (Atlas Project)
+- 📰 Built AI models for breaking news monitoring & analysis
+- 🏥 Developed robotic healthcare solutions during COVID
 - 🚚 Worked on autonomous delivery robot systems
-- 📚 Building advanced RAG (Retrieval-Augmented Generation) applications
+- 📚 Building RAG (Retrieval-Augmented Generation) applications
 - ⚡ Designing scalable backend APIs using FastAPI
 - 🐧 Linux & backend systems enthusiast
-- 🧠 Strong problem-solving and competitive programming background
-- 🔥 Passionate about AI Agents, LLMs, and scalable infrastructure
+- 🧠 Strong problem-solving background
 
 ---
 
@@ -45,7 +51,7 @@
 ## 👨‍💻 Backend & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,github,bash,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,github,bash"/>
 </p>
 
 ---
@@ -69,69 +75,30 @@
 
 ---
 
-# ⚡ Current Focus
-
-```python
-class Aladdin:
-    def __init__(self):
-        self.name = "Aladdin"
-        self.role = "AI & Backend Engineer"
-
-        self.backend_stack = [
-            "FastAPI",
-            "PostgreSQL",
-            "Docker",
-            "Linux"
-        ]
-
-        self.ai_stack = [
-            "Machine Learning",
-            "RAG Systems",
-            "LLMs",
-            "AI Agents",
-            "NLP"
-        ]
-
-    def build(self):
-        return f"{self.name} is building intelligent scalable systems 🚀"
-
-
-me = Aladdin()
-
-print(me.build())
-```
-
----
-
 # 📌 Featured Projects
 
 ## 🌍 Atlas Multilingual Transcription System
-
-AI-powered multilingual transcription platform designed for scalable speech recognition and language understanding.
+AI-powered multilingual transcription platform for scalable speech recognition and language understanding.
 
 ---
 
 ## 📰 Breaking News AI Model
-
-Real-time AI system for tracking, analyzing, and monitoring breaking news events.
+Real-time AI system for tracking and analyzing breaking news events.
 
 ---
 
 ## 🏥 Medical Care Robot
-
-Robotic healthcare assistance solution developed during the COVID era to support medical operations.
+Robotic healthcare assistance system developed during COVID-19 era.
 
 ---
 
 ## 🚚 Autonomous Delivery Robot
-
-Smart delivery robot system with autonomous navigation capabilities.
+Smart autonomous delivery robot system with navigation intelligence.
 
 ---
 
 ## 📚 RAG Application
-
-Retrieval-Augmented Generation application integrating LLMs with semantic search and external knowledge sources.
+Retrieval-Augmented Generation system integrating LLMs with external knowledge sources.
 
 ---
 
@@ -208,14 +175,6 @@ Retrieval-Augmented Generation application integrating LLMs with semantic search
 
 ---
 
-# 🔥 Fun Animation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="750"/>
-</p>
-
----
-
 # 🚀 Visitor Counter
 
 <p align="center">
@@ -224,7 +183,8 @@ Retrieval-Augmented Generation application integrating LLMs with semantic search
 
 ---
 
-<!-- FOOTER -->
+<!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=140&section=footer"/>
 </p>
+```
