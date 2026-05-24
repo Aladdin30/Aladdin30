@@ -16,78 +16,81 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 </p>
 
-أنا **AI & Backend Engineer** متخصص في بناء أنظمة ذكية قابلة للتوسع (Scalable Intelligent Systems).
+I am an **AI & Backend Engineer** focused on building scalable intelligent systems that solve real-world problems.
 
-أعمل على تحويل الأفكار المعقدة إلى أنظمة إنتاجية حقيقية باستخدام الذكاء الاصطناعي و الـ backend engineering.
+I turn complex ideas into production-ready systems using artificial intelligence, backend engineering, and system design.
 
-### 🚀 مجالات العمل الأساسية:
-- بناء أنظمة ذكاء اصطناعي متقدمة (AI Systems)
-- تصميم APIs عالية الأداء باستخدام FastAPI
-- تطوير أنظمة RAG (Retrieval-Augmented Generation)
-- معالجة البيانات الضخمة وتحليلها
-- تطوير حلول روبوتات ذكية
+### 🚀 Core Areas of Expertise:
+- Building end-to-end AI systems
+- Designing high-performance APIs using FastAPI
+- Developing RAG (Retrieval-Augmented Generation) systems
+- Data processing and real-time analytics systems
+- Intelligent robotics and automation solutions
 
 ---
 
 # 🧠 Professional Experience
 
 ## 🤖 AI Systems Engineer
-أقوم بتطوير أنظمة ذكاء اصطناعي متكاملة تعتمد على:
-- نماذج تعلم عميق (Deep Learning)
-- نماذج لغوية كبيرة (LLMs)
-- أنظمة تحليل نصوص وصوت
-- pipelines لمعالجة البيانات في الوقت الحقيقي
 
-🔹 ركّزت على تقليل الأخطاء (Hallucination Reduction) في أنظمة LLM  
-🔹 بناء أنظمة تعتمد على المعرفة الخارجية (Knowledge-Augmented AI)
+I design and develop advanced AI systems powered by:
+
+- Deep Learning models
+- Large Language Models (LLMs)
+- Speech and text processing pipelines
+- Real-time data intelligence systems
+
+🔹 Reduced hallucinations in LLM-based applications  
+🔹 Built knowledge-augmented AI architectures  
+🔹 Designed scalable ML pipelines for production systems  
 
 ---
 
 ## ⚙️ Backend Engineer (FastAPI Specialist)
 
-خبرة قوية في بناء Backend Systems عالية الأداء:
+Strong experience in backend engineering and system design:
 
-- تصميم REST APIs scalable
-- إدارة قواعد بيانات PostgreSQL
-- Docker-based deployment
-- Linux server management
-- تحسين الأداء وتقليل latency
+- Designing scalable REST APIs
+- PostgreSQL database architecture
+- Docker-based deployment systems
+- Linux server environments
+- Performance optimization for high-load systems
 
-🔹 بناء أنظمة تدعم آلاف الطلبات في الثانية  
-🔹 تصميم معماريات نظيفة (Clean Architecture)
+🔹 Built systems capable of handling high traffic workloads  
+🔹 Designed clean and maintainable architectures  
 
 ---
 
-## 📰 AI for Real-Time Systems
+## 📰 Real-Time AI Systems
 
-عملت على أنظمة تحليل البيانات في الوقت الحقيقي مثل:
+Developed intelligent systems for real-time data processing:
 
-- تحليل الأخبار العاجلة (Breaking News Detection)
-- معالجة streams من البيانات
-- تصنيف الأحداث باستخدام ML models
-- فلترة المعلومات غير الصحيحة
+- Breaking news detection systems
+- Live data stream analysis
+- Event classification using ML models
+- Misinformation filtering pipelines
 
 ---
 
 ## 🏥 Robotics & Embedded Systems
 
-خبرة عملية في مشاريع الروبوتات:
+Hands-on experience in robotics and embedded AI systems:
 
-- أنظمة روبوتات طبية لمساعدة الطاقم الطبي
-- أنظمة تحكم ذكية بالروبوتات
-- دمج الحساسات مع backend systems
-- تحسين دقة الحركة والاستجابة
+- Medical assistance robotics systems
+- Sensor integration with backend AI
+- Real-time control systems
+- Autonomous decision-making modules
 
 ---
 
-## 🚚 Autonomous Systems
+## 🚚 Autonomous Delivery Systems
 
-تطوير أنظمة روبوتات توصيل ذاتية الحركة:
+Developed self-navigating delivery robots:
 
 - Path planning algorithms
 - Obstacle detection & avoidance
-- GPS tracking systems
-- Real-time decision making
+- GPS tracking and localization
+- Energy-efficient navigation systems
 
 ---
 
@@ -110,20 +113,20 @@
 - Speech Recognition Systems
 - RAG Architectures
 - LLM Integration
-- Vector Databases (Embeddings)
+- Vector Databases & Embeddings
 - Machine Learning Pipelines
-- Data Preprocessing & Feature Engineering
+- Feature Engineering & Data Processing
 
 ---
 
 ## ⚡ System Design Skills
 
-- Distributed Systems Basics
+- Distributed Systems Fundamentals
 - Scalable API Architecture
-- Event-driven Systems
+- Event-Driven Systems
 - Microservices Design
-- Data Pipelines
-- Low-latency Systems Optimization
+- Data Engineering Pipelines
+- Low-Latency System Optimization
 
 ---
 
@@ -134,13 +137,13 @@
   <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="260"/>
 </p>
 
-نظام ذكاء اصطناعي لتحويل الصوت إلى نص يدعم لغات متعددة بدقة عالية.
+A production-grade multilingual speech-to-text system designed for real-time transcription across multiple languages and accents.
 
-✔ معالجة صوتية متقدمة  
-✔ دعم لهجات متعددة  
-✔ real-time transcription  
-✔ تحسين الضوضاء وجودة الصوت  
-✔ scalable backend architecture  
+✔ Advanced speech processing pipeline  
+✔ Multi-language support with high accuracy  
+✔ Real-time transcription engine  
+✔ Noise reduction and audio enhancement  
+✔ Scalable backend architecture for high loads  
 
 ---
 
@@ -149,13 +152,13 @@
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="260"/>
 </p>
 
-نظام ذكاء اصطناعي لمراقبة وتحليل الأخبار العالمية في الوقت الحقيقي.
+A real-time AI system that detects and analyzes breaking global news events instantly.
 
-✔ كشف الأحداث العاجلة خلال ثواني  
-✔ تصنيف الأخبار تلقائياً  
-✔ تحليل مصادر البيانات  
-✔ تقليل الأخبار المضللة  
-✔ dashboards تحليلية ذكية  
+✔ Real-time crawling and data ingestion  
+✔ Machine learning-based event classification  
+✔ Instant breaking news detection  
+✔ Deduplication and misinformation filtering  
+✔ Analytical dashboards for insights  
 
 ---
 
@@ -164,13 +167,13 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260"/>
 </p>
 
-نظام روبوتي طبي لدعم الطواقم الصحية وتقليل المخاطر.
+A robotic healthcare assistant system designed to support medical environments and reduce human risk.
 
-✔ مراقبة المرضى  
-✔ تحكم روبوتي ذكي  
-✔ أنظمة أمان عالية  
-✔ تقليل الاحتكاك المباشر  
-✔ دمج AI + IoT  
+✔ Patient monitoring automation  
+✔ AI-based robotic control system  
+✔ Real-time sensor communication  
+✔ Safety-focused autonomous operations  
+✔ Designed for critical environments  
 
 ---
 
@@ -179,39 +182,36 @@
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="260"/>
 </p>
 
-روبوت توصيل ذاتي يعتمد على الذكاء الاصطناعي للملاحة.
+An autonomous delivery system capable of smart navigation and real-time decision-making.
 
-✔ تحديد المسار  
-✔ تجنب العقبات  
-✔ تتبع GPS مباشر  
-✔ تحسين استهلاك الطاقة  
-✔ نظام تحكم ذكي  
+✔ Path planning algorithms  
+✔ Obstacle detection & avoidance  
+✔ Real-time GPS tracking  
+✔ Energy-efficient movement system  
+✔ Full hardware-software integration  
 
 ---
 
 ## 📚 RAG Intelligent System
-<p align="center">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="260"/>
-</p>
 
-نظام يعتمد على LLM + Knowledge Retrieval لتحسين دقة الإجابات.
+A Retrieval-Augmented Generation system combining LLMs with external knowledge sources.
 
-✔ Embeddings search  
+✔ Semantic search with embeddings  
 ✔ Vector database integration  
-✔ Context-aware responses  
-✔ تقليل hallucinations  
-✔ knowledge augmentation  
+✔ Context-aware AI responses  
+✔ Reduced hallucination rate  
+✔ Scalable retrieval pipeline  
 
 ---
 
 # 🏆 Achievements & Highlights
 
-- 🧠 Problem Solving & Algorithms Expertise
-- 💻 Competitive Programming Background
-- 🤖 AI Systems Engineering Experience
-- ⚡ Production-level Backend Development
-- 🧩 Real-world System Design Experience
-- 🚀 Built multiple end-to-end AI systems
+- 🧠 Strong background in algorithms and problem solving
+- 💻 Competitive programming experience
+- 🤖 AI system design and implementation
+- ⚙️ Production-level backend development
+- 🧩 End-to-end system architecture design
+- 🚀 Multiple real-world AI projects delivered
 
 ---
 
@@ -246,7 +246,7 @@
 
 # 💡 Professional Summary
 
-> "I build intelligent systems that connect AI, data, and scalable backend architectures into real-world production solutions."
+> "I build intelligent systems that combine AI, data, and scalable backend architectures into real-world production solutions."
 
 ---
 
