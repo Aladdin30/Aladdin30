@@ -1,4 +1,3 @@
-
 <!-- ================= HEADER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=260&section=header&text=Aladdin&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Backend%20Engineer&descAlignY=55&descSize=20"/>
@@ -20,11 +19,9 @@
     <img src="https://img.shields.io/github/followers/Aladdin30?label=Followers&style=for-the-badge"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=Aladdin30&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Aladdin30&style=for-the-badge&color=blue"/>
 
   <img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge"/>
-
-  <img src="https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge&logo=python"/>
 </p>
 
 ---
@@ -34,157 +31,79 @@
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🤖 My name is **Aladdin**
-- AI & Backend Engineer passionate about intelligent systems
-- 🌍 Worked on multilingual AI transcription (Atlas Project)
-- 📰 Built AI models for breaking news monitoring & analysis
-- 🏥 Developed robotic healthcare solutions during COVID
-- 🚚 Worked on autonomous delivery robot systems
-- 📚 Building RAG (Retrieval-Augmented Generation) applications
-- ⚡ Designing scalable backend APIs using FastAPI
-- 🐧 Linux & backend systems enthusiast
-- 🧠 Strong problem-solving background
+- AI & Backend Engineer
+- Building scalable backend systems & AI applications
+- Working on RAG, NLP, Robotics, and real-world AI systems
+- Strong background in FastAPI & PostgreSQL
 
 ---
 
 # 🛠️ Tech Stack
 
-## 👨‍💻 Backend & Infrastructure
+## 👨‍💻 Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,git,github,bash"/>
 </p>
 
----
-
-## 🤖 AI / Machine Learning
+## 🤖 AI
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
 </p>
-
-### AI Skills
-
-- Natural Language Processing (NLP)
-- Speech Recognition & Transcription
-- RAG Applications
-- AI Agents
-- LLM Applications
-- Deep Learning
-- Machine Learning Pipelines
-- Data Processing & Analysis
-
----
-
-# 📌 Featured Projects
-
-## 🌍 Atlas Multilingual Transcription System
-AI-powered multilingual transcription platform for scalable speech recognition and language understanding.
-
----
-
-## 📰 Breaking News AI Model
-Real-time AI system for tracking and analyzing breaking news events.
-
----
-
-## 🏥 Medical Care Robot
-Robotic healthcare assistance system developed during COVID-19 era.
-
----
-
-## 🚚 Autonomous Delivery Robot
-Smart autonomous delivery robot system with navigation intelligence.
-
----
-
-## 📚 RAG Application
-Retrieval-Augmented Generation system integrating LLMs with external knowledge sources.
-
----
-
-# 🏆 Certifications & Achievements
-
-- 🧠 Problem Solving Certification
-- 💻 Competitive Programming Experience
-- ⚡ Backend Systems Development
-- 🤖 AI & Intelligent Systems Engineering
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aladdin30&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aladdin30&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aladdin30&show_icons=true&theme=tokyonight"/>
 </p>
-
----
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aladdin30&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aladdin30&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aladdin30&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake (IMPORTANT SETUP REQUIRED)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aladdin30/Aladdin30/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
+> ⚠️ If this does not show, you must run GitHub Actions workflow first (snake generator)
+
 ---
 
-# 🏅 GitHub Trophies
+# 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aladdin30&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aladdin30&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 👀 Visitor Counter
 
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aladdin30&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+# ⚡ Connect
+
+<p align="center">
   <a href="https://github.com/Aladdin30">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Aladdin30-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-# ⚙️ Tools & Environment
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu,linux,docker,git,github,vscode,postgres,python"/>
-</p>
-
----
-
-# 💻 Operating System
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</p>
-
----
-
-# 🚀 Visitor Counter
+# 💡 Quote
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Aladdin30/count.svg"/>
+  “Building intelligent systems that solve real-world problems.”
 </p>
-
----
-
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=140&section=footer"/>
-</p>
-```
